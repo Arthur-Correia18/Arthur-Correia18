@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Arthur Correia</h1>
 
-<!--
-**Arthur-Correia18/Arthur-Correia18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor Full Stack em formação <br>
+🚀 Focado em React, Node.js e APIs REST <br>
+🌐 Criando aplicações reais com deploy <br>
+🎯 Em busca da primeira oportunidade como Dev Jr
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Projetos em destaque
+
+### 🎬 DevFlix
+📌 Plataforma de filmes inspirada na Netflix  
+⚡ React + API  
+🔗 https://devflix-delta.vercel.app  
+
+---
+
+### 👥 Sistema de Cadastro Full Stack
+📌 CRUD completo com validação e integração  
+⚡ React + Node + Prisma + MongoDB  
+
+🌐 Frontend: https://cadastro-usuarios-fullstack-brown.vercel.app/  
+🌐 Backend:  https://cadastro-usuarios-fullstack.onrender.com  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Correia18&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Correia18&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 📫 Contato
+
+📧 arthurcorreia6260@gmail.com  
+🔗 https://www.linkedin.com/in/arthur-correia-8101833b3  
+
+---
+
+<p align="center">
+🔥 Sempre evoluindo e construindo projetos reais
+</p>
