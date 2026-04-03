@@ -45,9 +45,9 @@
 
 ## 📫 Contato
 
-📧 arthurcorreia6260@gmail.com  
+📧 arthurcorreia6260y@gmail.com  
 🔗 https://www.linkedin.com/in/arthur-correia-8101833b3  
-
+📱 11 96590-9378
 ---
 
 <p align="center">
