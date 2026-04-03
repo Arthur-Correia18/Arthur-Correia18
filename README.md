@@ -29,7 +29,7 @@
 ### 🎬 DevFlix
 📌 Plataforma de filmes inspirada na Netflix  
 ⚡ React + API  
-🔗 https://devflix-delta.vercel.app  
+🔗[https://dev-flix-rouge.vercel.app/  
 
 ---
 
